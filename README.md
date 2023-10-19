@@ -4,7 +4,7 @@
   The list is developed on the basis of a template class, which is based on a doubly linked list
 
 ## std::shared_ptr<Type> & std::weak_ptr<Type>
-![image](https://github.com/zpnst/SmartList/assets/105946529/11e01836-df01-474a-bb18-7964e1d16dec)
+![image](https://github.com/zpnst/SmartList/assets/105946529/acec827d-df95-42ad-8a8a-4a6556a089af)
 
   Using std::weak_ptr<Type> as a pointer to the previous element of a node, 
   together with std::shared_ptr<Type> helped to avoid cyclic references
