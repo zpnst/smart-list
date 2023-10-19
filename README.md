@@ -10,7 +10,7 @@
   together with std::shared_ptr<Type> helped to avoid cyclic references
 
 ## Different types of constructors are implemented
-![image](https://github.com/zpnst/SmartList/assets/105946529/930b56d0-e121-4146-8096-dd78098f38f9)
+![Uploading image.png…]()
 
 ## Functions for working with a list
   1) Function for adding an item to any place in the list
