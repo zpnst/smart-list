@@ -19,10 +19,10 @@ together with std::shared_ptr<Type> helped to avoid cyclic references
   5) Operator [] overload
   6) Function for formatted list output
 
-And functions for convenience:
+## And functions for convenience:
   ![image](https://github.com/zpnst/SmartList/assets/105946529/18817dc5-2cfc-4197-8e4c-2b800bbb11f5)
 
 ## That's all
-See you soon...
+### See you soon...
 
 
