@@ -23,6 +23,11 @@
 ## And functions for convenience:
   ![image](https://github.com/zpnst/SmartList/assets/105946529/18817dc5-2cfc-4197-8e4c-2b800bbb11f5)
 
+## Operators overloading
+  Overload has been implemented for *, +, / operators
+  They are responsible for operations between a List and a Variable and a List and a List
+![image](https://github.com/zpnst/SmartList/assets/105946529/846f6662-9e76-4fa9-86be-7c6d338ace78)
+
 ## See you soon...
 
 
