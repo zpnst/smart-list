@@ -1,4 +1,4 @@
-# SmartList
+# Smart List
 
 ## Structure
   The list is developed on the basis of a template class, which is based on a doubly linked list
